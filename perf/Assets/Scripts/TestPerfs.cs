@@ -62,6 +62,8 @@ public class TestPerfs : MonoBehaviour
         
         Profiler.EndSample();
     }
+
+    
     
     private void DoLotOfStuffOnStrings()
     {
